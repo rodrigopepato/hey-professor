@@ -4,6 +4,10 @@ use App\Http\Controllers\{ProfileController, QuestionController};
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
+    if(app()->isLocal()) {
+        auth()->loginUsingId(1);
+    }
+
     return view('welcome');
 });
 
