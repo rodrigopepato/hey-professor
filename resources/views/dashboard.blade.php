@@ -14,6 +14,8 @@
                 
             @endforeach
 
+            {{ $questions->links() }}
+
         </div>
     </x-container>         
 </x-app-layout>
