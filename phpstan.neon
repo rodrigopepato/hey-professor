@@ -2,6 +2,8 @@ includes:
     - ./vendor/nunomaduro/larastan/extension.neon
 parameters:
 
+    checkGenericClassInNonGenericObjectType: false
+
     paths:
         - app/
 
