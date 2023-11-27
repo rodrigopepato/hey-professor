@@ -14,7 +14,7 @@
                 
             @endforeach
 
-            {{ $questions->links() }}
+            {{ $questions->withQueryString()->links() }}
 
         </div>
     </x-container>         
