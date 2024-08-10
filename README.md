@@ -1,9 +1,3 @@
-[![CI Develop Main](https://github.com/rodrigopepato/hey-professor/actions/workflows/laravel.yml/badge.svg?branch=main)](https://github.com/rodrigopepato/hey-professor/actions/workflows/laravel.yml)
-[![CI Develop](https://github.com/rodrigopepato/hey-professor/actions/workflows/laravel.yml/badge.svg?branch=develop)](https://github.com/rodrigopepato/hey-professor/actions/workflows/laravel.yml)
-
-
-## About Hey Professor
-
 Hey-Professor 🎓
 
 **Hey-Professor** é uma aplicação semelhante ao Slido, desenvolvida em Laravel, que permite aos usuários fazer login autenticando-se pelo GitHub. A aplicação oferece uma interface para interagir com professores, fazendo perguntas e participando de discussões.
@@ -71,4 +65,3 @@ Para rodar o projeto na sua máquina, você precisará de:
 
 ## Licença
 Este projeto está licenciado sob a [MIT License](LICENSE).
-
