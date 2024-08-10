@@ -1,5 +1,3 @@
-## About Hey Professor
-
 Hey-Professor 🎓
 
 **Hey-Professor** é uma aplicação semelhante ao Slido, desenvolvida em Laravel, que permite aos usuários fazer login autenticando-se pelo GitHub. A aplicação oferece uma interface para interagir com professores, fazendo perguntas e participando de discussões.
